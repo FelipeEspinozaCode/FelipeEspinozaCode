@@ -8,6 +8,6 @@
   </a>
 
   <a href="https://www.skills.google/public_profiles/b63b9107-1bab-4d6d-800d-fc007d01bfc1/badges/22280289">
-    <img src="Google_MLOps.png" width="100" alt="Google Cloud MLOps for Generative AI">
+    <img src="Google_MLOps.png" width="90" alt="Google Cloud MLOps for Generative AI">
   </a>
 </p>
