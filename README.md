@@ -10,4 +10,12 @@
   <a href="https://www.skills.google/public_profiles/b63b9107-1bab-4d6d-800d-fc007d01bfc1/badges/22280289">
     <img src="Google_MLOps.png" height="88" alt="Google Cloud MLOps for Generative AI">
   </a>
+
+  <br> <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/ffeceb0198de9503325fd00dd7fe0b20c25d0b9b">
+    <img src="azure_datacamp.jpg" height="88" alt="Microsoft Azure Fundamentals">
+  </a>
+
+  <a href="https://www.datacamp.com/certificate/AIEDA0019105963588">
+    <img src="datacamp_ai.jpg" height="88" alt="AI Engineer for Developers Associate">
+  </a>
 </p>
