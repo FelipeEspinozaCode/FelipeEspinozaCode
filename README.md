@@ -13,7 +13,7 @@
     <img src="pandas.png" height="90" alt="Kaggle Pandas Certificate">
   </a>&nbsp;
   <a href="https://www.kaggle.com/learn/certification/felipeespinozacode/python">
-    <img src="python.png" height="90" alt="Kaggle Python Certificate">
+    <img src="Python.png" height="90" alt="Kaggle Python Certificate">
   </a>&nbsp;
   <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/ffeceb0198de9503325fd00dd7fe0b20c25d0b9b">
     <img src="azure_datacamp.jpg" height="90" alt="Microsoft Azure Fundamentals">
