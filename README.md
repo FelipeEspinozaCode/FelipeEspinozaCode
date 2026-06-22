@@ -21,5 +21,8 @@
   </a>&nbsp;
   <a href="https://www.datacamp.com/certificate/AIEDA0019105963588">
     <img src="datacamp_ai.jpg" height="45" alt="AI Engineer for Developers Associate">
+  </a>&nbsp;
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2f773e8d80df13f4163b1c0045dddb8ab23f5d7d">
+    <img src="powerbicertificate.png" height="45" alt="Data Visualization in Power BI">
   </a>
 </div>
